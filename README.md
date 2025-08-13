@@ -1,6 +1,4 @@
-Got it — here’s a **README** that’s purely based on your book’s content, no repo setup or git commands included:
 
----
 
 # 🚀 Leveraging Angular, Python, and Generative AI
 
@@ -10,7 +8,7 @@ Got it — here’s a **README** that’s purely based on your book’s content,
 
 ## 📖 Overview
 
-This book  showcases how to combine **Angular**, **Python + Flask**, and **Generative AI** (Google Gemini & AWS Bedrock) to build powerful, interactive web applications.
+This book  demonstrates how to integrate **Angular**, **Python + Flask**, and **Generative AI** (Google Gemini & AWS Bedrock) to create powerful, interactive web applications.
 
 It’s a guided journey—from setting up Angular and Python environments to integrating AI models that can **chat, analyze, detect, and generate** with real-world utility.
 
