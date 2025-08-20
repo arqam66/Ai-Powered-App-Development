@@ -88,6 +88,3 @@ It’s a guided journey—from setting up Angular and Python environments to int
 
 Licensed under **CC BY-SA 4.0** – Free to use, share, and remix with attribution.
 
----
-
-If you like, I can also **make a visual "recipe card" style README** so each AI feature from the book feels like a menu of cool projects. That would make it even more fun to read.
